@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.StoryDetailActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="16dp"
+    android:layout_marginEnd="16dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginBottom="16dp"
+    app:cardCornerRadius="16dp">
+
+    <ProgressBar
+        android:id="@+id/pb_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/iv_StoryThumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:contentDescription="@string/gambar"
+            tools:src="@color/turquoise"/>
+
+        <TextView
+            android:id="@+id/tv_StoryAuthor"
+            tools:text="Story Title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="16dp"
+            android:textStyle="bold"
+            android:transitionName="name"
+            android:textSize="20sp"/>
+
+        <TextView
+            android:id="@+id/tv_StoryDesc"
+            tools:text="Description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginTop="8dp"
+            android:transitionName="description"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:id="@+id/tv_StoryCreated"
+            tools:text="Created at"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="10dp"
+            android:transitionName="created"
+            android:ellipsize="end"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
+
+</FrameLayout>

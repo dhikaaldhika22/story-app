@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.1455" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/drawable/ic_baseline_add_to_photos_24.xml" value="0.1455" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/drawable/ic_capture.xml" value="0.1455" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/drawable/ic_img_place_holder.xml" value="0.1455" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/drawable/ic_login.xml" value="0.116" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/drawable/ic_place_holder.xml" value="0.1455" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/activity_add_story.xml" value="0.20471014492753623" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/activity_camera.xml" value="0.20471014492753623" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.20471014492753623" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/activity_regist.xml" value="0.264" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/activity_story_detail.xml" value="0.20471014492753623" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/list_story.xml" value="0.1265625" />
+        <entry key="..\:/BANGKIT/StoryApp/app/src/main/res/layout/story_list.xml" value="0.2" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/drawable/border_corner.xml" value="0.1" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/drawable/btn_hide_off.xml" value="0.1245" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/drawable/btn_hide_on.xml" value="0.1245" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/drawable/ic_baseline_supervisor_account_24.xml" value="0.1215" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/drawable/ic_storyapp_logo_colored_.xml" value="0.121" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_add_story.xml" value="0.22916666666666666" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_camera.xml" value="0.22916666666666666" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_maps.xml" value="0.2318840579710145" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_regist.xml" value="0.22916666666666666" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.22916666666666666" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/activity_story_detail.xml" value="0.22916666666666666" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/error_view.xml" value="0.2318840579710145" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/loading_item.xml" value="0.1334853090172239" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/layout/story_list.xml" value="0.23007246376811594" />
+        <entry key="..\:/BANGKIT_@/StoryApp/app/src/main/res/menu/menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
